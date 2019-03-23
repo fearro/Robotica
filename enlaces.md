@@ -36,6 +36,8 @@
 
 - AnyKode (http://www.anykode.com/index.php)
 
+- ROBOGUIDE (https://www.fanuc.eu/es/es/robots/accesorios/roboguide)
+
 - RobotStudio de ABB (https://new.abb.com/products/robotics/es/robotstudio)
 
 - Kuka Sim (https://www.kuka.com/es-es/productos-servicios/sistemas-de-robot/software/planificaci%C3%B3n-proyecci%C3%B3n-servicio-seguridad/kuka_sim)
