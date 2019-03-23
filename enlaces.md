@@ -16,6 +16,7 @@
 - YARP (https://www.yarp.it/)
 
 ### Simuladores
+- ROS Development Studio (http://www.theconstructsim.com/rds-ros-development-studio/)
 
 - GAZEBO (http://gazebosim.org/)
 
@@ -43,6 +44,10 @@
 
 - NVIDIA ISAAC Platform for Robotics (https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/)
 
+- CARLA coches autónomos (http://carla.org/)
+
+- Microsoft AirSim drones (https://github.com/Microsoft/AirSim)
+
 ### RPA (Robotic Process Automation)
 
 - UiPath (https://www.uipath.com/)
@@ -54,3 +59,7 @@
 ### Canales de Youtube
 
 - Programación extrema (https://www.youtube.com/playlist?list=PL2bUNdUcvvm0CtampWejh0ekjAP8QB9bc)
+
+### Formación
+
+- Robot Ignite Academy (http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/)
