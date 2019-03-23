@@ -15,6 +15,8 @@
 
 - Microsoft Robotics Developer Studio (https://www.microsoft.com/en-us/download/details.aspx?id=29081)
 
+- YARP (https://www.yarp.it/)
+
 ### Simuladores
 
 - GAZEBO (http://gazebosim.org/)
