@@ -37,6 +37,8 @@
 
 - RobotStudio de ABB (https://new.abb.com/products/robotics/es/robotstudio)
 
+- Kuka Sim (https://www.kuka.com/es-es/productos-servicios/sistemas-de-robot/software/planificaci%C3%B3n-proyecci%C3%B3n-servicio-seguridad/kuka_sim)
+
 - Microsoft Robotics Developer Studio (https://www.microsoft.com/en-us/download/details.aspx?id=29081)
 
 - NVIDIA ISAAC Platform for Robotics (https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/)
