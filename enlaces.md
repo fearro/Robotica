@@ -20,3 +20,11 @@
 - GAZEBO (http://gazebosim.org/)
 
 - RobotStudio de ABB (https://new.abb.com/products/robotics/es/robotstudio)
+
+### RPA (Robotic Process Automation)
+
+- UiPath (https://www.uipath.com/)
+
+- Automation Anywhere (https://www.automationanywhere.es/)
+
+- Blue Prism (https://www.blueprism.com/)
