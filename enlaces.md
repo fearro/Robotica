@@ -39,6 +39,8 @@
 
 - Microsoft Robotics Developer Studio (https://www.microsoft.com/en-us/download/details.aspx?id=29081)
 
+- NVIDIA ISAAC Platform for Robotics (https://www.nvidia.com/en-us/deep-learning-ai/industries/robotics/)
+
 ### RPA (Robotic Process Automation)
 
 - UiPath (https://www.uipath.com/)
