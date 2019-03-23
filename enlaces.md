@@ -63,3 +63,5 @@
 ### Formación
 
 - Robot Ignite Academy (http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/)
+
+- UiPath Academy (https://www.uipath.com/es/rpa/academy/formacion)
