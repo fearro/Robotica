@@ -56,6 +56,8 @@
 
 - Blue Prism (https://www.blueprism.com/)
 
+- WorkFusion (https://www.workfusion.com/)
+
 ### Canales de Youtube
 
 - Programación extrema (https://www.youtube.com/playlist?list=PL2bUNdUcvvm0CtampWejh0ekjAP8QB9bc)
