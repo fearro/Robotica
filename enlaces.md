@@ -21,6 +21,20 @@
 
 - GAZEBO (http://gazebosim.org/)
 
+- V-rep (http://www.coppeliarobotics.com/)
+
+- RobotDK (https://robodk.com/es/index)
+
+- Visual Components (https://www.visualcomponents.com/)
+
+- Actin (https://www.energid.com/actin/simulation-capabilities)
+
+- Workspace Robot Simulation (http://www.workspacelt.com/)
+
+- Webots (https://www.cyberbotics.com/)
+
+- Easy-Rob (http://www.easy-rob.com/easy-rob-intro.html)
+
 - RobotStudio de ABB (https://new.abb.com/products/robotics/es/robotstudio)
 
 ### RPA (Robotic Process Automation)
