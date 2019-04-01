@@ -70,6 +70,8 @@
 
 - Robocademy (https://www.youtube.com/playlist?list=PLTfwDz1XJzuHUrC57ZOr5Hr3H0Y75OEjC)
 
+- Libros sobre ROS (http://wiki.ros.org/Books)
+
 - UiPath Academy (https://www.uipath.com/es/rpa/academy/formacion)
 
 - Automation Anywhere University (https://www.automationanywhereuniversity.com/)
