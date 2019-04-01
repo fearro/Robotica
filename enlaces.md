@@ -68,6 +68,8 @@
 
 - Robot Ignite Academy (http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/)
 
+- Robocademy (https://www.youtube.com/playlist?list=PLTfwDz1XJzuHUrC57ZOr5Hr3H0Y75OEjC)
+
 - UiPath Academy (https://www.uipath.com/es/rpa/academy/formacion)
 
 - Automation Anywhere University (https://www.automationanywhereuniversity.com/)
