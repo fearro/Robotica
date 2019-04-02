@@ -75,3 +75,7 @@
 - UiPath Academy (https://www.uipath.com/es/rpa/academy/formacion)
 
 - Automation Anywhere University (https://www.automationanywhereuniversity.com/)
+
+### Webs
+
+Asociación Española de Robótica y Automatización (https://www.aer-automation.com/)
