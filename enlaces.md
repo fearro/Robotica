@@ -76,6 +76,8 @@
 
 - Automation Anywhere University (https://www.automationanywhereuniversity.com/)
 
+- Universal Robots Academy (https://ur.sumtotal.host/core/dash/home/urcustpublicguest)
+
 ### Webs
 
 Asociación Española de Robótica y Automatización (https://www.aer-automation.com/)
