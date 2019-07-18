@@ -80,11 +80,39 @@
 
 - Libros sobre ROS (http://wiki.ros.org/Books)
 
-**Coursera**
+- QUT Robot Academy (https://robotacademy.net.au/)
+
+#### Coursera
 
 - Programa especializado Robótica Penn University (https://www.coursera.org/specializations/robotics)
 
 - Programa especializado Modern Robotics: Mechanics, Planning, and Control (https://www.coursera.org/specializations/modernrobotics)
+
+- Control of Mobile Robots (https://www.coursera.org/learn/mobile-robot)
+
+#### edX
+
+- MicroMasters Program in Robotics Penn University (https://www.edx.org/micromasters/pennx-robotics)
+
+- Autonomous Mobile Robots (https://www.edx.org/course/autonomous-mobile-robots-2)
+
+- Autonomous Navigation for Flying Robots (https://www.edx.org/course/autonomous-navigation-for-flying-robots-2)
+
+- Underactuated Robotics (https://www.edx.org/course/underactuated-robotics-2)
+
+- Robotics (https://www.edx.org/course/robotics-columbiax-csmm-103x)
+
+- Robot Mechanics and Control, Part I (https://www.edx.org/course/robot-mechanics-and-control-part-i), Part II (https://www.edx.org/course/robot-mechanics-and-control-part-ii)
+
+#### Udacity
+
+- Become a Self-Driving Car Engineer (https://eu.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+
+- Flying Car and Autonomous Flight Engineer (https://eu.udacity.com/course/flying-car-nanodegree--nd787)
+
+- Become a Robotics Software Engineer (https://eu.udacity.com/course/robotics-software-engineer--nd209)
+
+
 
 ### Webs
 
