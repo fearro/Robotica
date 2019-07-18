@@ -122,11 +122,15 @@
 
 - Become a Robotics Software Engineer (https://eu.udacity.com/course/robotics-software-engineer--nd209)
 
-
-
 ### Webs
 
 - Asociación Española de Robótica y Automatización (https://www.aer-automation.com/)
 
 - International Federation of Robotics (https://ifr.org/)
+
+- Comunidad de ROS en Agricultura (http://rosagriculture.org/)
+
+### Venta
+
+- Componentes ROS (https://www.roscomponents.com/es/)
 
