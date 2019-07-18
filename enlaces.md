@@ -64,19 +64,27 @@
 
 - Programación extrema (https://www.youtube.com/playlist?list=PL2bUNdUcvvm0CtampWejh0ekjAP8QB9bc)
 
-### Formación
-
-- Robot Ignite Academy (http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/)
+- The Construct (https://www.youtube.com/channel/UCt6Lag-vv25fTX3e11mVY1Q/featured)
 
 - Robocademy (https://www.youtube.com/playlist?list=PLTfwDz1XJzuHUrC57ZOr5Hr3H0Y75OEjC)
 
-- Libros sobre ROS (http://wiki.ros.org/Books)
+### Formación
+
+- Robot Ignite Academy (http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/)
 
 - UiPath Academy (https://www.uipath.com/es/rpa/academy/formacion)
 
 - Automation Anywhere University (https://www.automationanywhereuniversity.com/)
 
 - Universal Robots Academy (https://ur.sumtotal.host/core/dash/home/urcustpublicguest)
+
+- Libros sobre ROS (http://wiki.ros.org/Books)
+
+**Coursera**
+
+- Programa especializado Robótica Penn University (https://www.coursera.org/specializations/robotics)
+
+- Programa especializado Modern Robotics: Mechanics, Planning, and Control (https://www.coursera.org/specializations/modernrobotics)
 
 ### Webs
 
