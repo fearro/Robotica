@@ -126,4 +126,7 @@
 
 ### Webs
 
-Asociación Española de Robótica y Automatización (https://www.aer-automation.com/)
+- Asociación Española de Robótica y Automatización (https://www.aer-automation.com/)
+
+- International Federation of Robotics (https://ifr.org/)
+
