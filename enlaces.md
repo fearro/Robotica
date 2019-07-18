@@ -90,6 +90,8 @@
 
 - Introduction to Aerial Robotics (http://www.kostasalexis.com/introduction-to-aerial-robotics.html)
 
+- MIT 6.S094: Deep Learning for Self-Driving Cars (https://selfdrivingcars.mit.edu/)
+
 #### Coursera
 
 - Programa especializado Robótica Penn University (https://www.coursera.org/specializations/robotics)
