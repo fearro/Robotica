@@ -82,6 +82,14 @@
 
 - QUT Robot Academy (https://robotacademy.net.au/)
 
+- Introduction to Mobile Robotics - SS 2016 (http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php)
+
+- CS223A - Introduction to Robotics (https://see.stanford.edu/Course/CS223A)
+
+- Introduction to Robotics (https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/)
+
+- Introduction to Aerial Robotics (http://www.kostasalexis.com/introduction-to-aerial-robotics.html)
+
 #### Coursera
 
 - Programa especializado Robótica Penn University (https://www.coursera.org/specializations/robotics)
