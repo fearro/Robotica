@@ -130,6 +130,8 @@
 
 - Comunidad de ROS en Agricultura (http://rosagriculture.org/)
 
+- Open Source International Robotics (https://www.openrobotics.org/)
+
 ### Venta
 
 - Componentes ROS (https://www.roscomponents.com/es/)
