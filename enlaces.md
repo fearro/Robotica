@@ -132,6 +132,8 @@
 
 - Open Source International Robotics (https://www.openrobotics.org/)
 
+- Agricultural Robotics and Automation (http://ieeeagra.com/)
+
 ### Venta
 
 - Componentes ROS (https://www.roscomponents.com/es/)
