@@ -92,6 +92,12 @@
 
 - MIT 6.S094: Deep Learning for Self-Driving Cars (https://selfdrivingcars.mit.edu/)
 
+- Vision Algorithms for Mobile Robotics y Autonomous Mobile Robots ETH Zurich (http://rpg.ifi.uzh.ch/teaching.html)
+
+- Listado de cursos con lecturers de Carnegie Mellon Robotics Lab (https://www.ri.cmu.edu/education/courses/)
+
+- Listado de cursos con lecturers de UC Berkeley Robot Learning (http://rll.berkeley.edu/teaching.html)
+
 #### Coursera
 
 - Programa especializado Robótica Penn University (https://www.coursera.org/specializations/robotics)
