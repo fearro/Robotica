@@ -68,6 +68,8 @@
 
 - Robocademy (https://www.youtube.com/playlist?list=PLTfwDz1XJzuHUrC57ZOr5Hr3H0Y75OEjC)
 
+- ROBOTIS OpenSourceTeam (https://www.youtube.com/channel/UCZhmmixKLLAZ2EejELXP4KQ/featured)
+
 ### Formación
 
 - Robot Ignite Academy (http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/)
@@ -79,6 +81,8 @@
 - Universal Robots Academy (https://ur.sumtotal.host/core/dash/home/urcustpublicguest)
 
 - Libros sobre ROS (http://wiki.ros.org/Books)
+
+- Cursos sobre ROS (http://wiki.ros.org/Courses)
 
 - QUT Robot Academy (https://robotacademy.net.au/)
 
@@ -97,6 +101,10 @@
 - Listado de cursos con lecturers de Carnegie Mellon Robotics Lab (https://www.ri.cmu.edu/education/courses/)
 
 - Listado de cursos con lecturers de UC Berkeley Robot Learning (http://rll.berkeley.edu/teaching.html)
+
+- Top Recursos en la red (https://robocademy.com/2020/04/28/top-free-tutorials-to-learn-ros-robot-operating-system/)
+
+- Blog RobotSource (https://community.robotsource.org/)
 
 #### Coursera
 
