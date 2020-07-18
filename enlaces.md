@@ -97,6 +97,8 @@
 
 - Introduction to Aerial Robotics (http://www.kostasalexis.com/introduction-to-aerial-robotics.html)
 
+- Dyson Robotics Laboratory at Imperial College - 2019 (https://www.doc.ic.ac.uk/~ajd/Robotics/index.html)
+
 - MIT 6.S094: Deep Learning for Self-Driving Cars (https://selfdrivingcars.mit.edu/)
 
 - Vision Algorithms for Mobile Robotics y Autonomous Mobile Robots ETH Zurich (http://rpg.ifi.uzh.ch/teaching.html)
