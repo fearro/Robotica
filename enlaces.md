@@ -90,7 +90,12 @@
 
 - CS223A - Introduction to Robotics (https://see.stanford.edu/Course/CS223A)
 
-- Introduction to Robotics (https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/lecture-notes/)
+- Autonomous Intelligent Systems - University of Freiburg
+
+    * Introduction to Mobile Robotics - SS 2020  (http://ais.informatik.uni-freiburg.de/teaching/ss20/robotics/index_en.php)
+    * Robot Mapping - WS 2019/20  (http://ais.informatik.uni-freiburg.de/teaching/ws19/mapping/index_en.php)
+    * Laboratory, Deep Learning for Autonomous Driving  (http://ais.informatik.uni-freiburg.de/teaching/ss18/driving_lab/index_en.php)
+    * Laboratory, Deep Learning  (http://ais.informatik.uni-freiburg.de/teaching/ws17/deep_learning_course/index_en.php)
 
 - Introduction to Aerial Robotics (http://www.kostasalexis.com/introduction-to-aerial-robotics.html)
 
