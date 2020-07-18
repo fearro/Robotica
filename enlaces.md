@@ -99,6 +99,8 @@
 
 - Dyson Robotics Laboratory at Imperial College - 2019 (https://www.doc.ic.ac.uk/~ajd/Robotics/index.html)
 
+- Prof. Dr. Cyrill Stachniss University of Bonn (https://www.ipb.uni-bonn.de/)
+
 - MIT 6.S094: Deep Learning for Self-Driving Cars (https://selfdrivingcars.mit.edu/)
 
 - Vision Algorithms for Mobile Robotics y Autonomous Mobile Robots ETH Zurich (http://rpg.ifi.uzh.ch/teaching.html)
