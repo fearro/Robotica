@@ -86,8 +86,6 @@
 
 - QUT Robot Academy (https://robotacademy.net.au/)
 
-- Introduction to Mobile Robotics - SS 2016 (http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php)
-
 - CS223A - Introduction to Robotics (https://see.stanford.edu/Course/CS223A)
 
 - Autonomous Intelligent Systems - University of Freiburg
