@@ -157,6 +157,8 @@
 
 - Agricultural Robotics and Automation (http://ieeeagra.com/)
 
+- Global Organization for Agricultural Robotics - GOFAR (https://www.agricultural-robotics.com/)
+
 ### Venta
 
 - Componentes ROS (https://www.roscomponents.com/es/)
