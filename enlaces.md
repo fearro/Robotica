@@ -101,6 +101,8 @@
 
 - Dyson Robotics Laboratory at Imperial College - 2019 (https://www.doc.ic.ac.uk/~ajd/Robotics/index.html)
 
+- ECE 5463 Introduction to Robotics - Ohio State University (http://www2.ece.ohio-state.edu/~zhang/RoboticsClass/index.html)
+
 - Prof. Dr. Cyrill Stachniss University of Bonn (https://www.ipb.uni-bonn.de/)
 
 - MIT 6.S094: Deep Learning for Self-Driving Cars (https://selfdrivingcars.mit.edu/)
