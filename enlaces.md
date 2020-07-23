@@ -91,8 +91,11 @@
 - Autonomous Intelligent Systems - University of Freiburg
 
     * Introduction to Mobile Robotics - SS 2020  (http://ais.informatik.uni-freiburg.de/teaching/ss20/robotics/index_en.php)
+    
     * Robot Mapping - WS 2019/20  (http://ais.informatik.uni-freiburg.de/teaching/ws19/mapping/index_en.php)
+    
     * Laboratory, Deep Learning for Autonomous Driving  (http://ais.informatik.uni-freiburg.de/teaching/ss18/driving_lab/index_en.php)
+    
     * Laboratory, Deep Learning  (http://ais.informatik.uni-freiburg.de/teaching/ws17/deep_learning_course/index_en.php)
     
 - Robotic Systems Lab - ETH Zurich University (https://rsl.ethz.ch/education-students/lectures/ros.html)
