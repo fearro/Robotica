@@ -110,6 +110,26 @@
 - Vision Algorithms for Mobile Robotics y Autonomous Mobile Robots ETH Zurich (http://rpg.ifi.uzh.ch/teaching.html)
 
 - Listado de cursos con lecturers de Carnegie Mellon Robotics Lab (https://www.ri.cmu.edu/education/courses/)
+   
+     * Advanced Computer Vision Apps  (http://ci2cv.net/16623/schedule/)
+     
+     * Methods In (Bio)Medical Image Analysis (http://www.cs.cmu.edu/~galeotti/methods_course/)
+     
+     * Mechanics of Manipulation (http://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/index.html)
+     
+     * Underactuated Robotics (https://sites.google.com/site/cmuunderactuatedrobotics/lecture-notes)
+     
+     * Integrated Intelligence in Robotics: Vision, Language, and Planning (http://www.cs.cmu.edu/~jeanoh/16-785/)
+     
+     * Physics based Methods in Vision (http://www.cs.cmu.edu/afs/cs/academic/class/16823-f06/)
+     
+     * Visual Learning and Recognition (http://graphics.cs.cmu.edu/courses/16-824/2017_spring/schedule.html)
+     
+     * Introduction to Robotics (https://www.cs.cmu.edu/~16311/current/schedule/scheduleindex.html)
+     
+     * Planning Techniques for Robotics (http://www.cs.cmu.edu/~maxim/classes/robotplanning/)
+     
+     * Computer Vision (http://www.cs.cmu.edu/~16385/)
 
 - Listado de cursos con lecturers de UC Berkeley Robot Learning (http://rll.berkeley.edu/teaching.html)
 
