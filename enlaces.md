@@ -100,6 +100,8 @@
     
 - Robotic Systems Lab - ETH Zurich University (https://rsl.ethz.ch/education-students/lectures/ros.html)
 
+- Foundations of Robotics - Cornell University (http://www.cs.cornell.edu/courses/cs4750/2019fa/schedule/)
+
 - Introduction to Aerial Robotics (http://www.kostasalexis.com/introduction-to-aerial-robotics.html)
 
 - Dyson Robotics Laboratory at Imperial College - 2019 (https://www.doc.ic.ac.uk/~ajd/Robotics/index.html)
