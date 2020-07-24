@@ -98,6 +98,8 @@
     
     * Laboratory, Deep Learning  (http://ais.informatik.uni-freiburg.de/teaching/ws17/deep_learning_course/index_en.php)
     
+- Autonomous Robot Systems - Harvard University (https://canvas.harvard.edu/courses/37276/assignments/syllabus)
+    
 - Robotic Systems Lab - ETH Zurich University (https://rsl.ethz.ch/education-students/lectures/ros.html)
 
 - Foundations of Robotics - Cornell University (http://www.cs.cornell.edu/courses/cs4750/2019fa/schedule/)
