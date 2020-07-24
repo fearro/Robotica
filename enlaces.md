@@ -88,7 +88,15 @@
 
 - CS223A - Introduction to Robotics (https://see.stanford.edu/Course/CS223A)
 
-- Autonomous Intelligent Systems - University of Freiburg
+- CS336: Robot Perception and Decision-Making (http://cs336.stanford.edu/Syllabus.html)
+
+- Autonomous Systems Lab - Stanford University:
+
+    * Principles of Robot Autonomy I (http://asl.stanford.edu/aa274/)
+    
+    * Principles of Robot Autonomy II (http://web.stanford.edu/class/cs237b/)
+
+- Autonomous Intelligent Systems - University of Freiburg:
 
     * Introduction to Mobile Robotics - SS 2020  (http://ais.informatik.uni-freiburg.de/teaching/ss20/robotics/index_en.php)
     
