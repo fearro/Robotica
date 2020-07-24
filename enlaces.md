@@ -105,10 +105,16 @@
     * Laboratory, Deep Learning for Autonomous Driving  (http://ais.informatik.uni-freiburg.de/teaching/ss18/driving_lab/index_en.php)
     
     * Laboratory, Deep Learning  (http://ais.informatik.uni-freiburg.de/teaching/ws17/deep_learning_course/index_en.php)
+
+-  Robotic Systems Lab - ETH Zurich University:
+
+    * Programming for Robotics - Introduction to ROS (https://rsl.ethz.ch/education-students/lectures/ros.html)
+    
+    * Autonomous Mobile Robots (https://asl.ethz.ch/education/lectures/autonomous_mobile_robots/spring-2020.html)
+    
+    * Vision Algorithms for Mobile Robotics (http://rpg.ifi.uzh.ch/teaching.html)
     
 - Autonomous Robot Systems - Harvard University (https://canvas.harvard.edu/courses/37276/assignments/syllabus)
-    
-- Robotic Systems Lab - ETH Zurich University (https://rsl.ethz.ch/education-students/lectures/ros.html)
 
 - Foundations of Robotics - Cornell University (http://www.cs.cornell.edu/courses/cs4750/2019fa/schedule/)
 
@@ -121,8 +127,6 @@
 - Prof. Dr. Cyrill Stachniss University of Bonn (https://www.ipb.uni-bonn.de/)
 
 - MIT 6.S094: Deep Learning for Self-Driving Cars (https://selfdrivingcars.mit.edu/)
-
-- Vision Algorithms for Mobile Robotics y Autonomous Mobile Robots ETH Zurich (http://rpg.ifi.uzh.ch/teaching.html)
 
 - Listado de cursos con lecturers de Carnegie Mellon Robotics Lab (https://www.ri.cmu.edu/education/courses/)
    
