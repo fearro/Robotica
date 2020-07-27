@@ -92,6 +92,8 @@
 
 - CS336: Robot Perception and Decision-Making (http://cs336.stanford.edu/Syllabus.html)
 
+- Purdue Universitiy - Robot Programming with ROS (https://web.ics.purdue.edu/~rvoyles/Classes/ROSprogramming/index.html)
+
 - Autonomous Systems Lab - Stanford University:
 
     * Principles of Robot Autonomy I (http://asl.stanford.edu/aa274/)
