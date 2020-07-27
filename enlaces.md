@@ -86,6 +86,8 @@
 
 - QUT Robot Academy (https://robotacademy.net.au/)
 
+- The Art of Grasping and Manipulation (http://sirslab.dii.unisi.it/GraspingCourse/index.html)
+
 - CS223A - Introduction to Robotics (https://see.stanford.edu/Course/CS223A)
 
 - CS336: Robot Perception and Decision-Making (http://cs336.stanford.edu/Syllabus.html)
@@ -124,9 +126,13 @@
 
 - ECE 5463 Introduction to Robotics - Ohio State University (http://www2.ece.ohio-state.edu/~zhang/RoboticsClass/index.html)
 
+- Algorithmic Robotics and Motion Planning  - Tel Aviv University (http://acg.cs.tau.ac.il/courses/algorithmic-robotics/fall-2019-2020/algorithmic-robotics-and-motion-planning)
+
 - Prof. Dr. Cyrill Stachniss University of Bonn (https://www.ipb.uni-bonn.de/)
 
 - MIT 6.S094: Deep Learning for Self-Driving Cars (https://selfdrivingcars.mit.edu/)
+
+- Planning, Execution, and Learning - Carnegie Mellon University (http://www.cs.cmu.edu/~mmv/planning/schedule.html)
 
 - Listado de cursos con lecturers de Carnegie Mellon Robotics Lab (https://www.ri.cmu.edu/education/courses/)
    
