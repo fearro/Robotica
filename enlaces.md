@@ -134,6 +134,8 @@
 
 - Planning, Execution, and Learning - Carnegie Mellon University (http://www.cs.cmu.edu/~mmv/planning/schedule.html)
 
+- Robot Motion Planning and Applications - Korea Advanced Institute of Science and Technology (https://sgvr.kaist.ac.kr/~sungeui/MPA/#ref)
+
 - Listado de cursos con lecturers de Carnegie Mellon Robotics Lab (https://www.ri.cmu.edu/education/courses/)
    
      * Advanced Computer Vision Apps  (http://ci2cv.net/16623/schedule/)
