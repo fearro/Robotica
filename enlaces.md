@@ -94,6 +94,8 @@
 
 - Purdue Universitiy - Robot Programming with ROS (https://web.ics.purdue.edu/~rvoyles/Classes/ROSprogramming/index.html)
 
+- Mobile Robot Systems - Cambridge University (https://www.cl.cam.ac.uk/teaching/1819/L310/materials.html)
+
 - Autonomous Systems Lab - Stanford University:
 
     * Principles of Robot Autonomy I (http://asl.stanford.edu/aa274/)
