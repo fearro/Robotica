@@ -96,6 +96,14 @@
 
 - Mobile Robot Systems - Cambridge University (https://www.cl.cam.ac.uk/teaching/1819/L310/materials.html)
 
+- Department of Computing Science - University of Alberta:
+
+    * Introduction to Robotics and Mechatronics (http://ugweb.cs.ualberta.ca/~vis/courses/robotics/)
+    
+    * Autonomous Robot Navigation (http://webdocs.cs.ualberta.ca/~zhang/c631/)
+    
+    * Reinforcement Learning with Robots (https://armahmood.github.io/rl-robots-course/)
+
 - Autonomous Systems Lab - Stanford University:
 
     * Principles of Robot Autonomy I (http://asl.stanford.edu/aa274/)
