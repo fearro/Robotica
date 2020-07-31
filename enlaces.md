@@ -70,6 +70,14 @@
 
 - ROBOTIS OpenSourceTeam (https://www.youtube.com/channel/UCZhmmixKLLAZ2EejELXP4KQ/featured)
 
+- Mobile Sensing and Robotics (https://www.youtube.com/playlist?list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v)
+
+- Sensors and State Estimation (https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6)
+
+- Photogrametry (https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1)
+
+- Advanced Robotics (https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF)
+
 ### Formación
 
 - Robot Ignite Academy (http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/)
