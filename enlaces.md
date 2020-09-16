@@ -144,6 +144,10 @@
 
 - Dyson Robotics Laboratory at Imperial College - 2019 (https://www.doc.ic.ac.uk/~ajd/Robotics/index.html)
 
+- Computer Vision 2 - Aachen University (v2016 (más completa) http://www.vision.rwth-aachen.de/course/9/; v2018 http://www.vision.rwth-aachen.de/course/25/)
+
+- Machine Learning for Robotics and Computer Vision - TUM University (https://vision.in.tum.de/teaching/ws2017/ml4cv)
+
 - ECE 5463 Introduction to Robotics - Ohio State University (http://www2.ece.ohio-state.edu/~zhang/RoboticsClass/index.html)
 
 - Algorithmic Robotics and Motion Planning  - Tel Aviv University (http://acg.cs.tau.ac.il/courses/algorithmic-robotics/fall-2019-2020/algorithmic-robotics-and-motion-planning)
