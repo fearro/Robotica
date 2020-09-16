@@ -148,6 +148,10 @@
 
 - Machine Learning for Robotics and Computer Vision - TUM University (https://vision.in.tum.de/teaching/ws2017/ml4cv)
 
+- Introduction to Robotics - Brown University (http://cs.brown.edu/courses/cs1951r/)
+
+- Embedded and Real Time Software - Brown University (http://cs.brown.edu/courses/csci1600/lectures.html)
+
 - ECE 5463 Introduction to Robotics - Ohio State University (http://www2.ece.ohio-state.edu/~zhang/RoboticsClass/index.html)
 
 - Algorithmic Robotics and Motion Planning  - Tel Aviv University (http://acg.cs.tau.ac.il/courses/algorithmic-robotics/fall-2019-2020/algorithmic-robotics-and-motion-planning)
