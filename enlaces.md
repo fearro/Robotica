@@ -16,6 +16,7 @@
 - YARP (https://www.yarp.it/)
 
 ### Simuladores
+
 - ROS Development Studio (http://www.theconstructsim.com/rds-ros-development-studio/)
 
 - GAZEBO (http://gazebosim.org/)
@@ -229,6 +230,8 @@
 ### Webs
 
 - Asociación Española de Robótica y Automatización (https://www.aer-automation.com/)
+
+- AWS RoboMaker Robotics Curriculum (https://github.com/aws-robotics/aws-robomaker-robotics-curriculum)
 
 - International Federation of Robotics (https://ifr.org/)
 
