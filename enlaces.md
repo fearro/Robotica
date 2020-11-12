@@ -233,6 +233,8 @@
 
 - AWS RoboMaker Robotics Curriculum (https://github.com/aws-robotics/aws-robomaker-robotics-curriculum)
 
+- Recursos de AWS RoboMaker (https://aws.amazon.com/es/robomaker/resources/)
+
 - International Federation of Robotics (https://ifr.org/)
 
 - Comunidad de ROS en Agricultura (http://rosagriculture.org/)
