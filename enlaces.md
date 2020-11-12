@@ -185,6 +185,10 @@
      * Planning Techniques for Robotics (http://www.cs.cmu.edu/~maxim/classes/robotplanning/)
      
      * Computer Vision (http://www.cs.cmu.edu/~16385/)
+     
+- Robotics Applications and Design – Fall 2017 - University of South Carolina (https://sites.google.com/view/albertoq/home/teaching/csce274_2017)
+
+- Robotics – Fall 2017 - University of South Carolina (https://sites.google.com/view/albertoq/home/teaching/csce574_2017fall)
 
 - Listado de cursos con lecturers de UC Berkeley Robot Learning (http://rll.berkeley.edu/teaching.html)
 
