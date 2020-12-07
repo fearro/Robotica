@@ -227,7 +227,7 @@
 
 - Become a Robotics Software Engineer (https://eu.udacity.com/course/robotics-software-engineer--nd209)
 
-### Plataforma educativa
+### Plataformas educativas
 
 - Kibotics (primaria/secundaria/bachiller) (https://kibotics.org/)
 
