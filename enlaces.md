@@ -227,6 +227,12 @@
 
 - Become a Robotics Software Engineer (https://eu.udacity.com/course/robotics-software-engineer--nd209)
 
+### Plataforma educativa
+
+- Kibotics (primaria/secundaria/bachiller) (https://kibotics.org/)
+
+- Robotics-Academy (universitarios) (http://jderobot.github.io/RoboticsAcademy/)
+
 ### Webs
 
 - Asociación Española de Robótica y Automatización (https://www.aer-automation.com/)
