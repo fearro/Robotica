@@ -205,6 +205,10 @@
 
 - Control of Mobile Robots (https://www.coursera.org/learn/mobile-robot)
 
+- Implementing RPA with Cognitive Automation and Analytics - Automation Anywhere (https://www.coursera.org/learn/mobile-robot)
+
+- Blue Prism Foundation Training (https://es.coursera.org/learn/blue-prism-foundation-training)
+
 #### edX
 
 - MicroMasters Program in Robotics Penn University (https://www.edx.org/micromasters/pennx-robotics)
