@@ -209,6 +209,8 @@
 
 - Blue Prism Foundation Training (https://es.coursera.org/learn/blue-prism-foundation-training)
 
+- Programa especializado: Robotic Process Automation (RPA) UiPath (https://www.coursera.org/specializations/roboticprocessautomation)
+
 #### edX
 
 - MicroMasters Program in Robotics Penn University (https://www.edx.org/micromasters/pennx-robotics)
