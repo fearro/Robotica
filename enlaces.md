@@ -95,6 +95,8 @@
 
 - QUT Robot Academy (https://robotacademy.net.au/)
 
+- ROBOTIS e-manual TurtleBot3 (ROS) (https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
+
 - The Art of Grasping and Manipulation (http://sirslab.dii.unisi.it/GraspingCourse/index.html)
 
 - CS223A - Introduction to Robotics (https://see.stanford.edu/Course/CS223A)
